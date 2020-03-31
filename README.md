@@ -1,4 +1,6 @@
-# Calculadora:
+# Resultado:
 <br>
-<img alig="center" src="./calc.PNG" width="500px" />
+<p alig="center">
+  <img src="./calc.PNG" width="400px" />
+</p>
 <br>
