@@ -1,4 +1,4 @@
 # Calculadora:
 <br>
-<img src="./calc.PNG" width="500px" />
+<img alig="center" src="./calc.PNG" width="500px" />
 <br>
